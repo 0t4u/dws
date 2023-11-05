@@ -1,0 +1,10 @@
+.{
+    .name = "dws-napi",
+    .version = "0.0.1",
+    .dependencies = .{
+        .ws = .{
+            .url = "https://github.com/0t4u/websocket.zig/archive/4a41f3c9d13aab257e799d35e1a51816e64ca1ea.tar.gz",
+            .hash = "12206ef5dbf6c29f3409ad6c05b97b9b2beed2e904f36d19c22c763164777e1ca120",
+        },
+    },
+}
